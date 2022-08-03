@@ -165,35 +165,3 @@ elapsed = end-start
 fps = num_frames_processed/elapsed
 print("FPS: {}, Elapsed Time: {}".format(fps, elapsed))
 cv2.destroyAllWindows()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
